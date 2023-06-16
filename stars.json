@@ -2,13 +2,13 @@
   {
     "full_name": "SensorsIot/IOTstack",
     "stargazers_count": 1300,
-    "open_issues_count": 111,
+    "open_issues_count": 118,
     "forks_count": 289
   },
   {
     "full_name": "Azure-Samples/iot-middleware-freertos-samples",
-    "stargazers_count": 62,
-    "open_issues_count": 9,
+    "stargazers_count": 63,
+    "open_issues_count": 6,
     "forks_count": 38
   },
   {
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 175476,
-    "open_issues_count": 2136,
-    "forks_count": 88445
+    "stargazers_count": 175562,
+    "open_issues_count": 2123,
+    "forks_count": 88446
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 147193,
-    "open_issues_count": 7124,
-    "forks_count": 25898
+    "stargazers_count": 147328,
+    "open_issues_count": 7175,
+    "forks_count": 25934
   },
   {
     "full_name": "PracticalDL/Practical-Deep-Learning-Book",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "rism-digital/verovio",
-    "stargazers_count": 554,
+    "stargazers_count": 555,
     "open_issues_count": 149,
     "forks_count": 159
   },
   {
     "full_name": "fiebrink1/wekinator",
-    "stargazers_count": 270,
+    "stargazers_count": 271,
     "open_issues_count": 9,
     "forks_count": 50
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "victordiaz/PHONK",
-    "stargazers_count": 426,
+    "stargazers_count": 427,
     "open_issues_count": 42,
     "forks_count": 25
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "nature-of-code/noc-book",
-    "stargazers_count": 1912,
+    "stargazers_count": 1914,
     "open_issues_count": 0,
     "forks_count": 373
   },
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "twitter/opensource-website",
-    "stargazers_count": 2683,
-    "open_issues_count": 30,
-    "forks_count": 774
+    "stargazers_count": 2690,
+    "open_issues_count": 29,
+    "forks_count": 776
   },
   {
     "full_name": "adobe/adobe.github.com",
-    "stargazers_count": 1242,
+    "stargazers_count": 1244,
     "open_issues_count": 18,
-    "forks_count": 341
+    "forks_count": 342
   },
   {
     "full_name": "CreateJS/SoundJS",
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 9697,
-    "open_issues_count": 1771,
-    "forks_count": 2230
+    "stargazers_count": 9714,
+    "open_issues_count": 1788,
+    "forks_count": 2234
   },
   {
     "full_name": "textmate/textmate",
-    "stargazers_count": 14040,
+    "stargazers_count": 14041,
     "open_issues_count": 17,
     "forks_count": 1753
   },
   {
     "full_name": "opencv/opencv",
-    "stargazers_count": 69397,
-    "open_issues_count": 2480,
-    "forks_count": 55363
+    "stargazers_count": 69459,
+    "open_issues_count": 2489,
+    "forks_count": 55372
   },
   {
     "full_name": "2359media/EasyAndroidAnimations",
