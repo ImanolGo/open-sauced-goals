@@ -19,43 +19,43 @@
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 178617,
-    "open_issues_count": 2086,
-    "forks_count": 89104
+    "stargazers_count": 178684,
+    "open_issues_count": 2085,
+    "forks_count": 89107
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 152624,
-    "open_issues_count": 8553,
-    "forks_count": 27361
+    "stargazers_count": 152734,
+    "open_issues_count": 8603,
+    "forks_count": 27402
   },
   {
     "full_name": "PracticalDL/Practical-Deep-Learning-Book",
-    "stargazers_count": 689,
+    "stargazers_count": 691,
     "open_issues_count": 17,
     "forks_count": 301
   },
   {
     "full_name": "rism-digital/verovio",
-    "stargazers_count": 577,
-    "open_issues_count": 153,
-    "forks_count": 165
+    "stargazers_count": 582,
+    "open_issues_count": 154,
+    "forks_count": 164
   },
   {
     "full_name": "fiebrink1/wekinator",
-    "stargazers_count": 275,
-    "open_issues_count": 9,
+    "stargazers_count": 276,
+    "open_issues_count": 10,
     "forks_count": 50
   },
   {
     "full_name": "JarkkoPFC/fiber",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "maxbbraun/accent",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 19,
     "forks_count": 16
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "victordiaz/PHONK",
-    "stargazers_count": 443,
+    "stargazers_count": 442,
     "open_issues_count": 43,
     "forks_count": 26
   },
@@ -96,12 +96,6 @@
     "forks_count": 11
   },
   {
-    "full_name": "scanlime/fadecandy",
-    "stargazers_count": 1216,
-    "open_issues_count": 60,
-    "forks_count": 378
-  },
-  {
     "full_name": "nature-of-code/noc-book",
     "stargazers_count": 1926,
     "open_issues_count": 0,
@@ -115,39 +109,39 @@
   },
   {
     "full_name": "twitter/opensource-website",
-    "stargazers_count": 2816,
+    "stargazers_count": 2817,
     "open_issues_count": 41,
-    "forks_count": 832
+    "forks_count": 831
   },
   {
     "full_name": "adobe/adobe.github.com",
-    "stargazers_count": 1305,
+    "stargazers_count": 1304,
     "open_issues_count": 23,
-    "forks_count": 355
+    "forks_count": 356
   },
   {
     "full_name": "CreateJS/SoundJS",
-    "stargazers_count": 4387,
+    "stargazers_count": 4386,
     "open_issues_count": 94,
     "forks_count": 881
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10482,
-    "open_issues_count": 2051,
-    "forks_count": 2343
+    "stargazers_count": 10545,
+    "open_issues_count": 2048,
+    "forks_count": 2345
   },
   {
     "full_name": "textmate/textmate",
-    "stargazers_count": 14112,
+    "stargazers_count": 14108,
     "open_issues_count": 18,
-    "forks_count": 1755
+    "forks_count": 1756
   },
   {
     "full_name": "opencv/opencv",
-    "stargazers_count": 72127,
-    "open_issues_count": 2514,
-    "forks_count": 55696
+    "stargazers_count": 72223,
+    "open_issues_count": 2502,
+    "forks_count": 55702
   },
   {
     "full_name": "2359media/EasyAndroidAnimations",
