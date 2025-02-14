@@ -14,31 +14,31 @@
   {
     "full_name": "Azure/azure-iot-middleware-freertos",
     "stargazers_count": 84,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 26
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 187862,
-    "open_issues_count": 6891,
-    "forks_count": 74493
+    "stargazers_count": 187963,
+    "open_issues_count": 6956,
+    "forks_count": 74502
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 167155,
-    "open_issues_count": 9088,
-    "forks_count": 30439
+    "stargazers_count": 167293,
+    "open_issues_count": 9113,
+    "forks_count": 30510
   },
   {
     "full_name": "PracticalDL/Practical-Deep-Learning-Book",
-    "stargazers_count": 761,
+    "stargazers_count": 762,
     "open_issues_count": 17,
-    "forks_count": 317
+    "forks_count": 318
   },
   {
     "full_name": "rism-digital/verovio",
-    "stargazers_count": 698,
-    "open_issues_count": 172,
+    "stargazers_count": 699,
+    "open_issues_count": 175,
     "forks_count": 186
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "kosmos/awesome-generative-art",
-    "stargazers_count": 1741,
+    "stargazers_count": 1742,
     "open_issues_count": 5,
     "forks_count": 99
   },
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "echonest/remix.js",
-    "stargazers_count": 375,
+    "stargazers_count": 374,
     "open_issues_count": 3,
     "forks_count": 80
   },
   {
     "full_name": "twitter/opensource-website",
-    "stargazers_count": 3049,
+    "stargazers_count": 3051,
     "open_issues_count": 59,
-    "forks_count": 820
+    "forks_count": 821
   },
   {
     "full_name": "adobe/adobe.github.com",
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "CreateJS/SoundJS",
-    "stargazers_count": 4465,
+    "stargazers_count": 4462,
     "open_issues_count": 94,
     "forks_count": 832
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 12647,
-    "open_issues_count": 3310,
-    "forks_count": 2748
+    "stargazers_count": 12661,
+    "open_issues_count": 3294,
+    "forks_count": 2753
   },
   {
     "full_name": "textmate/textmate",
-    "stargazers_count": 14257,
+    "stargazers_count": 14260,
     "open_issues_count": 19,
     "forks_count": 1729
   },
   {
     "full_name": "opencv/opencv",
-    "stargazers_count": 80493,
-    "open_issues_count": 2699,
-    "forks_count": 55959
+    "stargazers_count": 80556,
+    "open_issues_count": 2704,
+    "forks_count": 55972
   },
   {
     "full_name": "2359media/EasyAndroidAnimations",
