@@ -19,15 +19,15 @@
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 194992,
-    "open_issues_count": 4909,
+    "stargazers_count": 195029,
+    "open_issues_count": 4999,
     "forks_count": 75274
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 184569,
-    "open_issues_count": 17103,
-    "forks_count": 39638
+    "stargazers_count": 184674,
+    "open_issues_count": 17339,
+    "forks_count": 39697
   },
   {
     "full_name": "PracticalDL/Practical-Deep-Learning-Book",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "rism-digital/verovio",
-    "stargazers_count": 852,
-    "open_issues_count": 164,
-    "forks_count": 211
+    "stargazers_count": 854,
+    "open_issues_count": 162,
+    "forks_count": 213
   },
   {
     "full_name": "fiebrink1/wekinator",
@@ -56,7 +56,7 @@
   {
     "full_name": "maxbbraun/accent",
     "stargazers_count": 207,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 17
   },
   {
@@ -109,45 +109,39 @@
   },
   {
     "full_name": "twitter/opensource-website",
-    "stargazers_count": 3268,
+    "stargazers_count": 3269,
     "open_issues_count": 70,
     "forks_count": 835
   },
   {
     "full_name": "adobe/adobe.github.com",
-    "stargazers_count": 1586,
+    "stargazers_count": 1587,
     "open_issues_count": 47,
-    "forks_count": 375
+    "forks_count": 376
   },
   {
     "full_name": "CreateJS/SoundJS",
-    "stargazers_count": 4563,
+    "stargazers_count": 4564,
     "open_issues_count": 95,
     "forks_count": 824
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 14524,
-    "open_issues_count": 3769,
-    "forks_count": 3138
+    "stargazers_count": 14539,
+    "open_issues_count": 3782,
+    "forks_count": 3142
   },
   {
     "full_name": "textmate/textmate",
-    "stargazers_count": 14570,
+    "stargazers_count": 14549,
     "open_issues_count": 21,
-    "forks_count": 1746
+    "forks_count": 1748
   },
   {
     "full_name": "opencv/opencv",
-    "stargazers_count": 87333,
-    "open_issues_count": 2741,
-    "forks_count": 56543
-  },
-  {
-    "full_name": "2359media/EasyAndroidAnimations",
-    "stargazers_count": 1375,
-    "open_issues_count": 16,
-    "forks_count": 310
+    "stargazers_count": 87378,
+    "open_issues_count": 2729,
+    "forks_count": 56550
   },
   {
     "full_name": "ImanolGo/Hearing-View",
