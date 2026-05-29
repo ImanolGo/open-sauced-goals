@@ -1,8 +1,8 @@
 [
   {
     "full_name": "SensorsIot/IOTstack",
-    "stargazers_count": 1509,
-    "open_issues_count": 103,
+    "stargazers_count": 1507,
+    "open_issues_count": 105,
     "forks_count": 299
   },
   {
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 195272,
-    "open_issues_count": 5654,
-    "forks_count": 75334
+    "stargazers_count": 195302,
+    "open_issues_count": 3021,
+    "forks_count": 75322
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 185342,
-    "open_issues_count": 18011,
-    "forks_count": 40124
+    "stargazers_count": 185492,
+    "open_issues_count": 18182,
+    "forks_count": 40214
   },
   {
     "full_name": "PracticalDL/Practical-Deep-Learning-Book",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "rism-digital/verovio",
-    "stargazers_count": 865,
-    "open_issues_count": 168,
-    "forks_count": 216
+    "stargazers_count": 868,
+    "open_issues_count": 167,
+    "forks_count": 218
   },
   {
     "full_name": "fiebrink1/wekinator",
-    "stargazers_count": 322,
+    "stargazers_count": 323,
     "open_issues_count": 13,
     "forks_count": 53
   },
@@ -109,39 +109,39 @@
   },
   {
     "full_name": "twitter/opensource-website",
-    "stargazers_count": 3280,
+    "stargazers_count": 3282,
     "open_issues_count": 70,
     "forks_count": 834
   },
   {
     "full_name": "adobe/adobe.github.com",
-    "stargazers_count": 1597,
+    "stargazers_count": 1599,
     "open_issues_count": 47,
-    "forks_count": 378
+    "forks_count": 379
   },
   {
     "full_name": "CreateJS/SoundJS",
-    "stargazers_count": 4566,
+    "stargazers_count": 4567,
     "open_issues_count": 95,
     "forks_count": 823
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 14637,
-    "open_issues_count": 3857,
-    "forks_count": 3164
+    "stargazers_count": 14644,
+    "open_issues_count": 3845,
+    "forks_count": 3168
   },
   {
     "full_name": "textmate/textmate",
-    "stargazers_count": 14562,
+    "stargazers_count": 14566,
     "open_issues_count": 21,
-    "forks_count": 1751
+    "forks_count": 1752
   },
   {
     "full_name": "opencv/opencv",
-    "stargazers_count": 87637,
-    "open_issues_count": 2726,
-    "forks_count": 56575
+    "stargazers_count": 87681,
+    "open_issues_count": 2723,
+    "forks_count": 56578
   },
   {
     "full_name": "ImanolGo/Hearing-View",
