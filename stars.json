@@ -1,9 +1,9 @@
 [
   {
     "full_name": "SensorsIot/IOTstack",
-    "stargazers_count": 1508,
+    "stargazers_count": 1509,
     "open_issues_count": 103,
-    "forks_count": 300
+    "forks_count": 301
   },
   {
     "full_name": "Azure-Samples/iot-middleware-freertos-samples",
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 195606,
-    "open_issues_count": 3470,
-    "forks_count": 75180
+    "stargazers_count": 195679,
+    "open_issues_count": 3448,
+    "forks_count": 75185
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 186181,
-    "open_issues_count": 18409,
-    "forks_count": 40376
+    "stargazers_count": 186360,
+    "open_issues_count": 18512,
+    "forks_count": 40447
   },
   {
     "full_name": "PracticalDL/Practical-Deep-Learning-Book",
-    "stargazers_count": 805,
+    "stargazers_count": 804,
     "open_issues_count": 17,
-    "forks_count": 340
+    "forks_count": 339
   },
   {
     "full_name": "rism-digital/verovio",
-    "stargazers_count": 872,
-    "open_issues_count": 166,
-    "forks_count": 220
+    "stargazers_count": 873,
+    "open_issues_count": 170,
+    "forks_count": 221
   },
   {
     "full_name": "fiebrink1/wekinator",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "kosmos/awesome-generative-art",
-    "stargazers_count": 1825,
-    "open_issues_count": 12,
+    "stargazers_count": 1826,
+    "open_issues_count": 11,
     "forks_count": 105
   },
   {
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "nature-of-code/noc-book",
-    "stargazers_count": 1933,
+    "stargazers_count": 1934,
     "open_issues_count": 0,
     "forks_count": 361
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "adobe/adobe.github.com",
-    "stargazers_count": 1608,
+    "stargazers_count": 1609,
     "open_issues_count": 36,
     "forks_count": 376
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 14711,
-    "open_issues_count": 3908,
-    "forks_count": 3191
+    "stargazers_count": 14730,
+    "open_issues_count": 3914,
+    "forks_count": 3195
   },
   {
     "full_name": "textmate/textmate",
-    "stargazers_count": 14571,
+    "stargazers_count": 14574,
     "open_issues_count": 21,
     "forks_count": 1751
   },
   {
     "full_name": "opencv/opencv",
-    "stargazers_count": 88921,
-    "open_issues_count": 2709,
-    "forks_count": 56641
+    "stargazers_count": 89187,
+    "open_issues_count": 2716,
+    "forks_count": 56661
   },
   {
     "full_name": "ImanolGo/Hearing-View",
